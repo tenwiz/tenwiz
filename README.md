@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td valign="top">
-      <a href="https://github.com/tenwiz" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=tenwiz&theme=dracula&show_icons=true&include_all_commits=true" /></a>
+      <a href="https://github.com/tenwiz" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=tenwiz&theme=dracula&show_icons=true&include_all_commits=true&show=[reviews,discussions_started,discussions_answered]" /></a>
     </td>
     <td valign="top">
       <a href="https://github.com/tenwiz" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenwiz&layout=compact&theme=dracula" /></a>
