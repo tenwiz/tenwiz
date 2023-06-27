@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**tenwiz/tenwiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hstarorg/hstarorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/tenwiz" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=tenwiz&theme=dracula&show_icons=true&include_all_commits=true" /></a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/tenwiz" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenwiz&layout=compact&theme=dracula" /></a>
+    </td>
+  </tr>
+</table>
+
